@@ -1,4 +1,5 @@
 # 사각형의 총 넓이 
+
 n = int(input())
 x1, y1, x2, y2 = [], [], [], []
 for _ in range(n):
