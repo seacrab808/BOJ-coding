@@ -59,3 +59,4 @@ for g in grid:
             cnt += 1
 
 print(cnt)
+
