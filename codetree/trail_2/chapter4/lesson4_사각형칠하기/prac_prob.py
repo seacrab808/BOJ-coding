@@ -60,3 +60,4 @@ for g in grid:
 
 print(cnt)
 
+# 잔해물을 덮기 위한 사각형의 최소 넓이
